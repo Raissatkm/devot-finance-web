@@ -1,3 +1,4 @@
+import { TextComponent } from './../../components/atoms/text/styles'
 export type ColorFormat = {
     PRIMARY: string
     SECONDARY: string
@@ -12,9 +13,7 @@ export const COLORS: ColorFormat = {
     SECONDARY: '#166619',
     BACKGROUND: '#FFFFFF',
     GREEN: '#166619',
-    ROSELLA:' #A40B5E',
+    ROSELLA:'#A40B5E',
     FANDANGO:' #770944',
     
-
 }
-  
